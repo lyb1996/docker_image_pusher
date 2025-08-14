@@ -1,4 +1,1 @@
-elasticsearch:7.17.6
-kibana:7.17.6
-rabbitmq:3.12.6-management
-nginx:1.25-alpine
+minio/minio:RELEASE.2025-07-23T15-54-02Z
