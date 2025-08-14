@@ -1,3 +1,4 @@
+alpine
 mysql:8.0.33
 redis:6.2.11
 minio/minio:RELEASE.2023-10-20T18-59-57Z
